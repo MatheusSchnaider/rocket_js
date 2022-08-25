@@ -4,7 +4,7 @@
 
 <h3 align="center">Projeto para estudo da linguagem JavaScript<h3>
 
-<img src="/img/rocket.png" alt="">
+<img src="/img/rocket-gif.gif" alt="">
 
 ## 💼 Tecnologias utilizadas
 
